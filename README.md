@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eggveloper
+- 👀 I’m interested in operating systems and how they work
+- 🌱 I’m currently learning assembly and C
+- 💞️ I’m looking to collaborate on creating a small operating system
+- 📫 How to reach me: send me a dm on discord `eggveloper#5836`
